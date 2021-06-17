@@ -24,12 +24,23 @@ Durante a graduação (Engenharia Eletrônica) tive o contato com diferentes lin
 
 No segundo semestre de 2019, último semestre da graduação, auxiliei a tese de doutorado de um professor utilizando Python, Pandas e Matplotlib para processar dados em arquivos de texto provenientes de sensores e apresentar os resultados desse processamento.
 
+Nesse mesmo semestre, eu e mais três colegas, ganhamos o prêmio do Desafio Ifsc Ideias Inovadoras. A ideia consistia de um sistema baseado em visão computacional para análise de tráfego de veículos e pedestres. Dessa forma, por meio dos dados adquiridos, descobrir se há falta ou excesso na iluminação pública. A ideia também consistia em diminuir ou aumentar a iluminação de acordo com os horários de pico.
+
 Meu TCC foi sobre Visão Computacional, utilizei python e C++ e linux embarcado com o sistema ROS (Robot Operating System). Segue o [link do TCC](https://www.overleaf.com/read/knnfcxbkfdhb). Gosto bastante de linux. Já utilizei debian 9 e 10 e o Ubuntu 18 quando desenvolvi com ROS.
 
 Nos últimos meses me voltei para criação de aplicativos WEB e Mobile. Trabalhei informalmente num projeto como programador fullstack, desenvolvi um backend programado com NodeJs que integrava um banco de dados MongoDB com um aplicativo WEB feito com React. Também desenvolvi um aplicativo Mobile feito com React Native. Após o término do projeto estudei um pouco de TypeScript, TDD e Clean Architecture.
 
 Nos últimos meses comecei a estudar física para entrar no mestrado, na área de computação quântica.
 
+---
+
+### Projetos 
+
+* [React p5 Synthesizer](https://github.com/lsmanoel/react_p5_synthesizer) - [Demo](https://react-p5-synthesizer.herokuapp.com/)
+* [Detector de Posição - Dlib](https://github.com/lsmanoel/RobotSense_Dlib)[GIF DEMO](https://github.com/lsmanoel/RobotSense_Dlib/blob/master/img/Peek%2026-08-2019%2018-50.gif)
+* [Machine Revolution](https://github.com/lsmanoel/MachineRevolution)
+* [PyOpenGL Solids](https://github.com/lsmanoel/PyOpenGL/tree/master/solids)
+* [DoomFireEffect](https://github.com/lsmanoel/DoomFireEffect_ProcessingVersion)
 ---
 
 ### Formação
