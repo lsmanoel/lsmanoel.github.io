@@ -41,6 +41,7 @@ Nos últimos meses comecei a estudar física para entrar no mestrado, na área d
 * [Machine Revolution](https://github.com/lsmanoel/MachineRevolution)
 * [PyOpenGL Solids](https://github.com/lsmanoel/PyOpenGL/tree/master/solids)
 * [DoomFireEffect](https://github.com/lsmanoel/DoomFireEffect_ProcessingVersion)
+
 ---
 
 ### Formação
