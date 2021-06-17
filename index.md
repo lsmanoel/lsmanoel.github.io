@@ -40,9 +40,9 @@ Engenharia Eletrônica no Instituto Federal de Santa Catarina (2014-2019)
 
 ### Habilidade de Programação
 
-* **Fullstack Dev** (JavaScript, TypeScript, CSS: React, React-Native, Nodejs, Mongodb, NeDB, Firebase)
+* **Fullstack Dev** (JavaScript, TypeScript, CSS, React, React-Native, Nodejs, Mongodb, NeDB, Firebase)
 
-* **AI** (python: Keras, Tensorflow, DLib )
+* **AI** (python: Keras, Tensorflow, DLib)
 
 * **ROS** (UNIX, C++, Python, cmake)
 
@@ -50,6 +50,6 @@ Engenharia Eletrônica no Instituto Federal de Santa Catarina (2014-2019)
 
 * **Programação de Hardware** (VHDL)
 
-* **Jogos e Animações** (C#, JavaScript, TypeScript, Java, Python: Unity, P5, Processing, PyGame)
+* **Jogos e Animações** (Unity, P5, Processing, PyGame)
 
-* **Firmwares** (C, C++, Assembly: Cypress, STM32, Atmel, FreeRTOS)
+* **Firmwares** (C, C++, Assembly, FreeRTOS)
