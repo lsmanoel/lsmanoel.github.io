@@ -35,7 +35,7 @@ Nos últimos meses me voltei para criação de aplicativos WEB e Mobile. Trabalh
 ### Projetos 
 
 * [React p5 Synthesizer](https://github.com/lsmanoel/react_p5_synthesizer) - [Demo](https://react-p5-synthesizer.herokuapp.com/) - Sintetizador feito com a integração do ReactJS e p5.
-* [Detector de Posição - Dlib](https://github.com/lsmanoel/RobotSense_Dlib) [GIF DEMO](https://github.com/lsmanoel/RobotSense_Dlib/blob/master/img/Peek%2026-08-2019%2018-50.gif) - Utilização da biblioteca Dlib para localizar a posição da pinça de um braço robótico.
+* [Detector de Posição](https://github.com/lsmanoel/RobotSense_Dlib) - [GIF DEMO](https://github.com/lsmanoel/RobotSense_Dlib/blob/master/img/Peek%2026-08-2019%2018-50.gif) - Utilização da biblioteca Dlib para localizar a posição da pinça de um braço robótico.
 * [Machine Revolution](https://github.com/lsmanoel/MachineRevolution) - Integração da biblioteca Tensorflow 1 com o Pygame.
 * [PyOpenGL Solids](https://github.com/lsmanoel/PyOpenGL/tree/master/solids) - Estudo sobre PyOpenGL.
 * [DoomFireEffect](https://github.com/lsmanoel/DoomFireEffect_ProcessingVersion) - Implementação do efeito de fogo utilizado no jogo DOOM.
