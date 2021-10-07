@@ -30,8 +30,6 @@ Meu TCC foi sobre Visão Computacional, utilizei python e C++ e linux embarcado 
 
 Nos últimos meses me voltei para criação de aplicativos WEB e Mobile. Trabalhei informalmente num projeto como programador fullstack, desenvolvi um backend programado com NodeJs que integrava um banco de dados MongoDB com um aplicativo WEB feito com React. Também desenvolvi um aplicativo Mobile feito com React Native. Após o término do projeto estudei um pouco de TypeScript, TDD e Clean Architecture.
 
-Nos últimos meses comecei a estudar física para entrar no mestrado, na área de computação quântica.
-
 ---
 
 ### Projetos 
