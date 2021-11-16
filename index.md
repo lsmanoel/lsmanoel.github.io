@@ -28,7 +28,7 @@ Nesse mesmo semestre, eu e mais três colegas, ganhamos o prêmio do Desafio Ifs
 
 Meu TCC foi sobre Visão Computacional, utilizei python e C++ e linux embarcado com o sistema ROS (Robot Operating System). Segue o [link do TCC](https://drive.google.com/file/d/1Ei1-eol5fQ9zp7CFsud-u0lzOeMOkwBS/view?usp=sharing). Gosto bastante de linux. Já utilizei debian 9 e 10 e o Ubuntu 18 quando desenvolvi com ROS.
 
-Nos últimos meses me voltei para criação de aplicativos WEB e Mobile. Trabalhei informalmente num projeto como programador fullstack, desenvolvi um backend programado com NodeJs que integrava um banco de dados MongoDB com um aplicativo WEB feito com React. Também desenvolvi um aplicativo Mobile feito com React Native. Após o término do projeto estudei um pouco de TypeScript, TDD e Clean Architecture.
+Após o término da graduação trabalhei informalmente, na empresa de um parente meu, no firmware de um motor de poupa elétrico controlado romotamente. Utilizei o Stm32f103c8t6 e o rádio RF24. Nos últimos meses me voltei para criação de aplicativos WEB e Mobile. Na mesma empresa do motor de poupa, trabalhei informalmente num projeto como programador fullstack, desenvolvi um backend programado com NodeJs que integrava um banco de dados MongoDB com um aplicativo WEB feito com React. Também desenvolvi um aplicativo Mobile feito com React Native. Após o término do projeto estudei um pouco de TypeScript, TDD e Clean Architecture.
 
 ---
 
@@ -36,7 +36,7 @@ Nos últimos meses me voltei para criação de aplicativos WEB e Mobile. Trabalh
 
 * [React p5 Synthesizer](https://github.com/lsmanoel/react_p5_synthesizer) - [Demo](https://react-p5-synthesizer.herokuapp.com/) - Sintetizador feito com a integração do ReactJS e p5.
 * [Detector de Posição](https://github.com/lsmanoel/RobotSense_Dlib) - [GIF DEMO](https://github.com/lsmanoel/RobotSense_Dlib/blob/master/img/Peek%2026-08-2019%2018-50.gif) - Utilização da biblioteca Dlib para localizar a posição da pinça de um braço robótico.
-* [Machine Revolution](https://github.com/lsmanoel/MachineRevolution) - Integração da biblioteca Tensorflow 1 com o Pygame.
+* [Machine Revolution](https://github.com/lsmanoel/MachineRevolution) - Integração da biblioteca Tensorflow 1 com o Pygame. Foi utilizada uma RNN (Recurrent Neural Network) para aprender os movimentos do jogador e prever sua tragetória. A inteligência artificial posiciona a mira antecipando uma possível posição futura do jogador a fim de acerta-lo. O objetivo do jogo é escapar dos tiros da inteligência artificial.
 * [PyOpenGL Solids](https://github.com/lsmanoel/PyOpenGL/tree/master/solids) - Estudo sobre PyOpenGL.
 * [DoomFireEffect](https://github.com/lsmanoel/DoomFireEffect_ProcessingVersion) - Implementação do efeito de fogo utilizado no jogo DOOM.
 
