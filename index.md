@@ -28,7 +28,7 @@ Nesse mesmo semestre, eu e mais três colegas, ganhamos o prêmio do Desafio Ifs
 
 Meu TCC foi sobre Visão Computacional, utilizei python e C++ e linux embarcado com o sistema ROS (Robot Operating System). Segue o [link do TCC](https://drive.google.com/file/d/1Ei1-eol5fQ9zp7CFsud-u0lzOeMOkwBS/view?usp=sharing). Gosto bastante de linux. Já utilizei debian 9 e 10 e o Ubuntu 18 quando desenvolvi com ROS.
 
-Após o término da graduação trabalhei informalmente no firmware de um motor de poupa elétrico controlado romotamente. Utilizei o Stm32f103c8t6 e o rádio RF24. Nos últimos meses me voltei para criação de aplicativos WEB e Mobile. Na mesma empresa do motor de poupa, trabalhei informalmente num projeto como programador fullstack, desenvolvi um backend programado com NodeJs que integrava um banco de dados MongoDB com um aplicativo WEB feito com React. Também desenvolvi um aplicativo Mobile feito com React Native. Após o término do projeto estudei um pouco de TypeScript, TDD e Clean Architecture.
+Após o término da graduação trabalhei informalmente no firmware de um motor de poupa elétrico controlado romotamente. Utilizei o Stm32f103c8t6 e o rádio RF24. Também me voltei para criação de aplicativos WEB e Mobile. Na mesma empresa do motor de poupa, trabalhei informalmente num projeto como programador fullstack, desenvolvi um backend programado com NodeJs que integrava um banco de dados MongoDB com um aplicativo WEB feito com React. Também desenvolvi um aplicativo Mobile feito com React Native. Após o término do projeto estudei um pouco de TypeScript, TDD e Clean Architecture.
 
 ---
 
