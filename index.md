@@ -8,13 +8,11 @@
 
 **Telefone:** (48) 99806-2709
 
-**Endereço:** 88030460 - Santa Catarina, Florianópolis
-
 **Github:** <https://github.com/lsmanoel>
 
 **Linkedin:** <https://www.linkedin.com/in/lucas-seara-manoel-958957160/>
 
-**Línguas:** Inglês Intermediário (Leio bem e falo pouco)
+**Línguas:** Inglês Técnico
 
 ---
 
@@ -22,13 +20,15 @@
 
 Durante a graduação (Engenharia Eletrônica) tive o contato com diferentes linguagens de programação, incluindo Python para computação científica e processamento de vídeo (OpenCV). Também já desenvolvi firmwares utilizando FreeRTOS. Sempre me interessei por Inteligência Artificial. Fora da graduação fiz cursos de TensorFlow, Keras e Dlib.
 
-No segundo semestre de 2019, último semestre da graduação, auxiliei a tese de doutorado de um professor utilizando Python, Pandas e Matplotlib para processar dados em arquivos de texto provenientes de sensores e apresentar os resultados desse processamento.
+No último semestre da graduação, auxiliei a tese de doutorado de um professor utilizando Python, Pandas e Matplotlib para processar dados em arquivos de texto provenientes de sensores e apresentar os resultados desse processamento.
 
-Nesse mesmo semestre, eu e mais três colegas, ganhamos o prêmio do Desafio Ifsc Ideias Inovadoras. A ideia consistia de um sistema baseado em visão computacional para análise de tráfego de veículos e pedestres. A intenção era, por meio dos dados adquiridos, descobrir se há falta ou excesso na iluminação pública. A ideia também consistia em diminuir ou aumentar a iluminação de acordo com a demanda.
+Nesse mesmo semestre, eu e mais três colegas, ganhamos o prêmio do Desafio Ifsc Ideias Inovadoras. A ideia consistia de um sistema baseado em visão computacional para análise de tráfego de veículos e pedestres. O objetivo era, por meio dos dados adquiridos, descobrir se há falta ou excesso na iluminação pública. A ideia também consistia em diminuir ou aumentar a iluminação de acordo com a demanda.
 
 Meu TCC foi sobre Visão Computacional, utilizei python e C++ e linux embarcado com o sistema ROS (Robot Operating System). Segue o [link do TCC](https://drive.google.com/file/d/1Ei1-eol5fQ9zp7CFsud-u0lzOeMOkwBS/view?usp=sharing). Gosto bastante de linux. Já utilizei debian 9 e 10 e o Ubuntu 18 quando desenvolvi com ROS.
 
-Após o término da graduação trabalhei informalmente no firmware de um motor de poupa elétrico controlado romotamente. Utilizei o Stm32f103c8t6 e o rádio RF24. Também me voltei para criação de aplicativos WEB e Mobile. Na mesma empresa do motor de poupa, trabalhei informalmente num projeto como programador fullstack, desenvolvi um backend programado com NodeJs que integrava um banco de dados MongoDB com um aplicativo WEB feito com React. Também desenvolvi um aplicativo Mobile feito com React Native. Após o término do projeto estudei um pouco de TypeScript, TDD e Clean Architecture.
+Após o término da graduação trabalhei como freelancer no firmware de um motor de popa elétrico controlado remotamente. Utilizei o *Stm32f103c8t6* e o rádio RF24. Também atuei na criação de aplicativos WEB e Mobile. Em seguida, trabalhei para esta mesma empresa como programador fullstack freelancer, desenvolvi um backend em NodeJs que integrava um banco de dados MongoDB com um aplicativo WEB feito com React. Também trabalhei no desenvolvimento de um aplicativo Mobile feito com React Native. 
+
+Por interesse, estudei um pouco de TypeScript, TDD e Clean Architecture.
 
 ---
 
@@ -48,7 +48,7 @@ Engenharia Eletrônica no Instituto Federal de Santa Catarina (2014-2019)
 
 ---
 
-### Habilidade de Programação
+### Conhecimentos de Programação:
 
 * **Fullstack Dev** (JavaScript, TypeScript, CSS, React, React-Native, Nodejs, Mongodb, NeDB, Firebase)
 
